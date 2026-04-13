@@ -202,7 +202,7 @@ MediBox-Lesion/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## 9. Önemli Notebooklar
