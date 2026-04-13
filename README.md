@@ -208,6 +208,7 @@ MediBox-Lesion/
 ## 9. Önemli Notebooklar
 
 ### MELA
+
 - **`07_mela_single_case_model_inference.ipynb`**  
   Tek vaka inference
 
@@ -218,6 +219,7 @@ MediBox-Lesion/
   Seçilen vakaların görsel analizi
 
 ### NSCLC
+
 - **`03_train_simple_unet.ipynb`**  
   Model eğitimi
 
@@ -225,6 +227,14 @@ MediBox-Lesion/
   Dice / IoU / Precision / Recall değerlendirmesi
 
 ---
+
+## 10. Kurulum
+
+### 10.1 Depoyu klonlayın
+
+```bash
+git clone <repo-linki>
+cd MediBox-Lesion
 
 ## 10. Kurulum
 
