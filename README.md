@@ -235,14 +235,14 @@ MediBox-Lesion/
 ```bash
 git clone <repo-linki>
 cd MediBox-Lesion
-
+```
 ## 10. Kurulum
 
 ### 10.1 Depoyu klonlayın
 ```bash
 git clone <repo-linki>
 cd MediBox-Lesion
-
+```
 ## 10.2 Sanal ortam oluşturun
 
 python -m venv .venv
@@ -251,7 +251,7 @@ Windows için etkinleştirme:
 
 ```bash
 .venv\Scripts\activate
-
+```
 
 ## 10.3 Gerekli paketleri yükleyin
 
@@ -291,7 +291,7 @@ Projeyi çalıştırmak için gerekli dosyaları aşağıdaki klasörlere manuel
 
 ```bash
 streamlit run app/streamlit_app.py
-
+```
 ## 13. Dokümantasyon
 
 Proje dokümanları `docs/` klasöründe yer almaktadır. Bu klasörde şunlar bulunur:
@@ -540,7 +540,7 @@ MediBox-Lesion/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
+```
 ## 9. Important Notebooks
 
 ### MELA
@@ -571,13 +571,13 @@ MediBox-Lesion/
 ```bash
 git clone <repo-link>
 cd MediBox-Lesion
-
+```
 
 ### 10.2 Create a virtual environment
 
 ```bash
 python -m venv .venv
-
+```
 ## 11. Data Setup
 
 Due to large file sizes, medical images, masks, and model weights are not included in this repository.
@@ -610,7 +610,7 @@ To run the project, you must manually place the required files into the followin
 
 ```bash
 streamlit run app/streamlit_app.py
-
+```
 ## 13. Documentation
 
 Project documents are located in the `docs/` folder. This folder includes:
